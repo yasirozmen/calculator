@@ -1,6 +1,6 @@
 # Calculator
 
-Bu kodun amaci hesap makinesi kullanimidir.
+Bu kodun amaci hesap makinesi kullanimidir.[^1]
 
 ## Bitti
 - Bu bir
@@ -10,3 +10,5 @@ Bu kodun amaci hesap makinesi kullanimidir.
 - [x] çıkatma
 - [ ] çarpma
 - [ ] bölme 
+
+[^1]: Bu bir dipnottur
